@@ -26,7 +26,7 @@ Je transforme des défis produits complexes en avantages concurrentiels, en alig
 
 ### 📊 Mon Activité sur GitHub
 
-[![Nathanaël's GitHub stats](https://github-readme-stats-delta-rust-94.vercel.app/api?username=menthol&show_icons=true&theme=cobalt2&hide_border=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+[![Nathanaël's GitHub stats](https://github-readme-stats-delta-rust-94.vercel.app/api?username=menthol&show_icons=true&theme=cobalt2&hide_border=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-delta-rust-94.vercel.app/api/top-langs/?username=menthol&layout=compact&theme=cobalt2&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
