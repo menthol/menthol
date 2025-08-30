@@ -26,8 +26,8 @@ Je transforme des défis produits complexes en avantages concurrentiels, en alig
 
 ### 📊 Mon Activité sur GitHub
 
-[![Nathanaël's GitHub stats](https://github-readme-stats.vercel.app/api?username=menthol&show_icons=true&theme=dracula&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menthol&layout=compact&theme=dracula&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Nathanaël's GitHub stats](https://github-readme-stats.vercel.app/api?username=menthol&show_icons=true&theme=cobalt2&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menthol&layout=compact&theme=cobalt2&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
