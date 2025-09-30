@@ -1,5 +1,5 @@
-<a href="https://pardonmyweb.com/" target="_blank"><img src="https://pardonmyweb.com/__og-image__/image/og.png" alt="PardonMyWeb - J'aide les startups à concrétiser leurs SaaS innovants" /></a>
-
+<a href="https://pardonmyweb.com/" target="_blank"><img src="https://pardonmyweb.com/__og-image__/static/og.png" alt="PardonMyWeb - J'aide les startups à concrétiser leurs SaaS innovants" /></a>
+                                                             
 # Salut, je suis Nathanaël 👋
 
 Architecte logiciel et solutions avec plus de 15 ans d'expérience, du développeur au CTO. Ma mission est d'aider les startups à concevoir, construire et scaler des applications SaaS robustes et performantes.
