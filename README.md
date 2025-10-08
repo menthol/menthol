@@ -48,6 +48,6 @@ Je transforme des défis produits complexes en avantages concurrentiels, en alig
 Je suis toujours ouvert à la discussion sur des défis techniques et produits passionnants.
 
 - **🗓️ Planifier un appel découverte gratuit :** [pardonmyweb.com/contact](https://pardonmyweb.com/contact)
-- **💼 Me retrouver sur LinkedIn :** [linkedin.com/in/nathanael-louison](https://www.linkedin.com/in/nathanael-louison/)
-- **Collective.work :** https://www.collective.work/profile/nathanael-louison
-- **Malt :** https://www.malt.fr/profile/nathanaellouison
+- **⚪️ Me retrouver sur Collective.work :** [https://www.collective.work/profile/nathanael-louison](https://www.collective.work/profile/nathanael-louison)
+- **🔵 Me retrouver sur LinkedIn :** [linkedin.com/in/nathanael-louison](https://www.linkedin.com/in/nathanael-louison/)
+- **🔴 Me retrouver sur Malt :** [https://www.malt.fr/profile/nathanaellouison](https://www.malt.fr/profile/nathanaellouison)
