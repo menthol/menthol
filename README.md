@@ -49,3 +49,5 @@ Je suis toujours ouvert à la discussion sur des défis techniques et produits p
 
 - **🗓️ Planifier un appel découverte gratuit :** [pardonmyweb.com/contact](https://pardonmyweb.com/contact)
 - **💼 Me retrouver sur LinkedIn :** [linkedin.com/in/nathanael-louison](https://www.linkedin.com/in/nathanael-louison/)
+- **Collective.work :** https://www.collective.work/profile/nathanael-louison
+- **Malt :** https://www.malt.fr/profile/nathanaellouison
